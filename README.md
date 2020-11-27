@@ -111,6 +111,7 @@
 
 ### System and Customization
 
+- [Font Manager](https://github.com/FontManager/font-manager) - Install new and manage allready installed fonts.
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME3 settings.
 - [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
